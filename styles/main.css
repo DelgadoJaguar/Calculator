@@ -1,0 +1,34 @@
+.hero {
+  margin-top: 20%;
+}
+
+.hero .inputs {
+  text-align: center;
+}
+
+.hero .inputs input {
+  padding: 5px 0;
+  border: none;
+  border-bottom: 2px solid grey;
+}
+
+.hero .buttons {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.hero .buttons button {
+  color: white;
+  background-color: grey;
+  border: none;
+  font-size: 25px;
+  margin: 0 5px;
+  padding: 5px 25px;
+  cursor: pointer;
+}
+
+.hero .rezult {
+  margin-top: 50px;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
